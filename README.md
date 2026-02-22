@@ -20,12 +20,6 @@ Building **production-ready software** with clean architecture and real-world im
 
 ---
 
-### 📌 Here You’ll Find
-✔ End-to-end projects   
-✔ ML models integrated into web apps  
-✔ Clean backend systems with auth & validation  
-
----
 
 ### 🏅 Learning & Activity
 [![Holopin badges](https://holopin.me/amanjha12)](https://holopin.io/@amanjha12)
