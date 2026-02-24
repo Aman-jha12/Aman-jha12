@@ -20,10 +20,7 @@ Building **production-ready software** with clean architecture and real-world im
 
 ---
 
-
-### 🏅 Learning & Activity
-[![Holopin badges](https://holopin.me/amanjha12)](https://holopin.io/@amanjha12)
-
+![Profile views](https://komarev.com/ghpvc/?username=Aman-jha12&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 📫 Open to collaboration on **AI-driven & system-heavy projects**
