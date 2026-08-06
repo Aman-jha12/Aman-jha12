@@ -4,7 +4,7 @@
 
 ### Building AI-powered products with Full-Stack Engineering, Distributed Systems & Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&speed=80&pause=100&color=00BFFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI-Powered+Application+Builder;Distributed+Systems+Enthusiast;DevOps+Learner;Building+Production-Ready+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&speed=100&pause=0&color=00BFFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI-Powered+Application+Builder;Distributed+Systems+Enthusiast;DevOps+Learner;Building+Production-Ready+Software" />
 
 </div>
 
